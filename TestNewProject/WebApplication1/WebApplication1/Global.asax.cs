@@ -18,9 +18,9 @@ namespace WebApplication1
 			BundleConfig.RegisterBundles(BundleTable.Bundles);
 			//Test---- 
 			//Test----
-			if(false && true)
+			if(false)
 			{
-				return true;
+				return false;
 			}
 		}
 	}
